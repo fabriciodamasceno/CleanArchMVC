@@ -1,0 +1,15 @@
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.deps.json
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.dll
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CopyComplete
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.dll
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\refint\CleanArchMvc.Application.dll
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\proj\estudos\Udemy\Macoratti\cleanarq\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\ref\CleanArchMvc.Application.dll
